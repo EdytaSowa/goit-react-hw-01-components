@@ -1,0 +1,21 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 10px;
+    box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    margin-top: 3px;
+}
+
+.name {
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.status {
+    background-color: blueviolet;
+    border-radius: 50px;
+    width: 10px;
+    height: 10px;
+    margin-top: 20px;
+    margin-right:10px;
+}

@@ -1,6 +1,7 @@
 body {
   background-color: rgb(174, 174, 199);
   
+  
 }
 .profile {
   background-color: #fff;
@@ -11,6 +12,7 @@ body {
   text-align: center;
   border: solid 1px rgb(174, 174, 199);
   padding-top: 20px;
+  margin-top: 30px;
 }
 
 .avatar {
